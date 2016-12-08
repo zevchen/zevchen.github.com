@@ -1860,7 +1860,7 @@ span.badge-dark,
 
 /*Font Awesome Icon Styles*/
 i.icon-custom {
-  color: #555;
+  color: #fff;
   width: 40px;
   height: 40px;
   font-size: 20px;
@@ -1868,7 +1868,7 @@ i.icon-custom {
   margin-bottom: 5px;
   text-align: center;
   display: inline-block;   
-  border: solid 1px #555;
+  border: solid 1px: #fff;
 }
 
 i.icon-sm {
@@ -2055,6 +2055,15 @@ i.icon-bg-light-green {
 
 i.icon-bg-u {
    background: #72c02c;
+}
+i.icon-bg-u1 {
+  background:  #1abc9c;
+}
+i.icon-bg-u2 {
+  background:  #e74c3c;
+}
+i.icon-bg-u3 {
+  background: #3498db;
 }
 i.icon-bg-blue {
    background: #3498db;
@@ -3615,8 +3624,8 @@ img.image-md {
 }
 
 .content-lg {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 50px;
+  padding-bottom: 10px;
 }
 
 .space-lg-hor {
