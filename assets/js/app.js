@@ -7,6 +7,7 @@
 */
 
 var App = function () {
+
     //Fixed Header
     function handleHeader() {
          jQuery(window).scroll(function() {
